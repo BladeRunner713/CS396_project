@@ -1,5 +1,6 @@
 # CS396_project
 
+Only for causal_discovery notebook.
 
 Install R and R studio.
 
