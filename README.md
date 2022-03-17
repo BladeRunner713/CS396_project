@@ -4,7 +4,7 @@ Only for causal_discovery notebook.
 
 Install R and R studio.
 
-Install [graphviz](https://breakdance.github.io/breakdance/), probably need to reboot.
+Install [graphviz](https://graphviz.org/download/), probably need to reboot.
 
 Install some require R packages.
 ```sh
