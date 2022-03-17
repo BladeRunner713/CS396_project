@@ -1,12 +1,10 @@
 # CS396_project
 
-Install some require R packages. You can check the installation by running 'main.py' and expected output = 0
-
 Install R and R studio.
 
 Install [graphviz](https://graphviz.org/download/), probably need to reboot.
 
-Install some require R packages.
+Install some require R packages. You can check the installation by running 'main.py' and expected output = 0
 
 ```sh
 install.packages("BiocManager")
