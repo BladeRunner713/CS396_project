@@ -3,7 +3,7 @@ Install R.
 
 Install [graphviz](https://graphviz.org/download/)
 
-Install some require R packages.
+Install some require R packages. You can check the installation by running 'main.py' and expected output = 0.
 ```sh
 #%%R
 install.packages("BiocManager")
