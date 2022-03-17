@@ -1,22 +1,16 @@
 # CS396_project
-Install R.
 
-Install [graphviz](https://graphviz.org/download/)
-
-<<<<<<< HEAD
 Install some require R packages. You can check the installation by running 'main.py' and expected output = 0
-```
-#%%R
-=======
+
 Install R and R studio.
 
 Install [graphviz](https://graphviz.org/download/), probably need to reboot.
 
 Install some require R packages.
+
 ```sh
->>>>>>> 0a45afeec1798b990dd678aa66f7589fa50e7aca
 install.packages("BiocManager")
-BiocManager::install(c("CAM", "SID", "bnlearn", "pcalg", "kpcalg", "D2C"))
+BiocManager::install(c("pcalg", "kpcalg"))
 ```
 
 Install [RCIT](https://github.com/Diviyan-Kalainathan/RCIT)
