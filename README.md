@@ -16,6 +16,7 @@ Finally, install [RCIT](https://github.com/Diviyan-Kalainathan/RCIT)
 
 ```sh
 install.packages("devtools")
+library(devtools)
 install_github("Diviyan-Kalainathan/RCIT")
 ```
 Remember to change this to local R path
